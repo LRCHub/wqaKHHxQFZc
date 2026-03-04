@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Come Together (2019 Mix)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-04T07:51:53.563859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Together - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Come_Together_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Come_Together_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "MC5",
+      "has_synced": false,
+      "path": "select/03_Come_Together_MC5.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Come_Together_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Come_Together_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/06_Come_Together_Blur.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/07_Come_Together_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Together - Jam Studio Monitor Mix",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/08_Come_Together_-_Jam_Studio_Monitor_Mix_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Come Together",
+      "artist": "Paul van Dyk feat. Sue McLaren",
+      "has_synced": false,
+      "path": "select/09_We_Come_Together_Paul_van_Dyk_feat._Sue_McLaren.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Annie",
+      "has_synced": false,
+      "path": "select/10_Come_Together_Annie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Come_Together_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Come_Together_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Together / Dear Prudence / Cry Baby Cry",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Come_Together___Dear_Prudence___Cry_Baby_Cry_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Together\u0000Dear Prudence\u0000Cry Baby Cry (Transition)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Come_Together\u0000Dear_Prudence\u0000Cry_Baby_Cry_(Transition)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Together",
+      "artist": "Svrcina",
+      "has_synced": true,
+      "path": "select/15_Come_Together_Svrcina.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come Together (live)",
+      "artist": "Tom Jones",
+      "has_synced": false,
+      "path": "select/16_Come_Together_(live)_Tom_Jones.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come Together (Live)",
+      "artist": "Tom Jones The Cardigans",
+      "has_synced": false,
+      "path": "select/17_Come_Together_(Live)_Tom_Jones_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Come Together (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/18_Come_Together_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Together_The_Beatles.txt"
+    }
+  ]
+}
