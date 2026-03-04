@@ -1,0 +1,54 @@
+# The Beatles – Come Together (2019 Mix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.38] Here come old flat top
+[00:14.06] He come grooving up slowly
+[00:16.85] He got joo joo eyeball
+[00:19.73] He one holy roller
+[00:22.64] He got hair down to his knee
+[00:29.10] Got to be a joker he just do what he please
+[00:50.60] 
+[00:47.18] He wear no shoe shine
+[00:49.14] He got toe jam football
+[00:51.79] He got monkey finger
+[00:54.63] He shoot Coca-Cola
+[00:57.48] He say I know you, you know me
+[01:04.01] One thing I can tell you is you got to be free
+[01:27.01] 
+[01:09.46] Come together, right now, over me
+[01:25.96] 
+[01:27.45] He bag production
+[01:29.26] He got walrus gumboot
+[01:32.22] He got Ono sideboard
+[01:35.05] He one spinal cracker
+[01:37.93] He got feet down below his knee
+[01:44.32] Hold you in his armchair you can feel his disease
+[02:08.82] 
+[01:49.84] Come together, right now, over me
+[02:06.34] 
+[02:31.20] He roller coaster
+[02:32.90] He got early warning
+[02:35.91] He got muddy water
+[02:38.82] He one mojo filter
+[02:41.73] He say, "one and one and one is three"
+[02:48.29] Got to be good looking 'cause he's so hard to see
+[03:12.79] 
+[02:53.48] Come together, right now, over me
+[03:09.98] 
+[03:11.37] Oh
+[03:12.37] 
+[03:18.05] Come together, yeah
+[03:23.70] Come together, yeah
+[03:29.43] Come together, yeah
+[03:35.04] Come together, yeah
+[03:44.54] 
+[03:40.66] Come together, yeah
+[03:46.39] Come together, yeah
+[03:52.18] Come together, yeah
+[03:57.90] Oh
+[03:58.90] 
+[04:03.29] Come together, yeah
+[04:08.86] Come together, yeah
+```
